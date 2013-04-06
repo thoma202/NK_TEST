@@ -8,25 +8,25 @@ Branche permanente qui contiendra uniquement les versions stables
 
 ### Branche "fix"
 
-Branche permanente qui contiendra uniquement les corrections de bugs "critiques". Chaque commit devra être mergé avec la branche master ainsi que la branche develop
+Branche permanente qui contiendra uniquement les corrections de bugs "critiques". Chaque commit devra Ãªtre mergÃ© avec la branche master ainsi que la branche develop
 
 ### Branche "develop"
 
-Branche permanente qui contiendra uniquement la version actuellement en développement et fonctionnelle. Quand la version en développement arrivera à maturité elle devra être mergée avec la master et tager avec le N° de version.
+Branche permanente qui contiendra uniquement la version actuellement en dÃ©veloppement et fonctionnelle. Quand la version en dï¿½veloppement arrivera ï¿½ maturitï¿½ elle devra ï¿½tre mergï¿½e avec la master et tager avec le Nï¿½ de version.
 
 ### Branche "features_?"
 
-Branche temporaires qui contiendra uniquement l'implantation d'un nouveau module, d'une nouvelle fonctionnalité.
+Branche temporaires qui contiendra uniquement l'implantation d'un nouveau module, d'une nouvelle fonctionnalitÃ©.
 
 Exemple de syntaxe :
 
 * Pour le module News la branche s'appelera : features_news
 * Pour l'ajout d'une fonction d'upload dans l'admin la branche s'appelera : features_admin_upload
 
-Une fois qu'une branche feature_? est jugée stable et terminée elle devra être mergée avec la develop et supprimée
+Une fois qu'une branche feature_? est jugÃ©e stable et terminÃ©e elle devra Ãªtre mergÃ©e avec la develop et supprimÃ©e
 
 ### Branche "bugs"
 
-Branche permanente qui contiendra uniquement les corrections des bugs découverts sur la version en développement. Une fois un bug corrigé, la branche devra être mergée avec la develop
+Branche permanente qui contiendra uniquement les corrections des bugs dÃ©couverts sur la version en dÃ©veloppement. Une fois un bug corrigï¿½, la branche devra ï¿½tre mergï¿½e avec la develop
 
-**(En cours de rédaction)**
+**(En cours de rÃ©daction)**
